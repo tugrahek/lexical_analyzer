@@ -1,0 +1,5 @@
+Identifier(x)
+Operator(:=)
+IntConstant(5)
+EndOfLine
+Identifier(y)
